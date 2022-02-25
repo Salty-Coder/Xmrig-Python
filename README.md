@@ -37,6 +37,8 @@ Python
 
 ## Contribution / 기여
 
+- 채굴 프로그램인 Xmrig
+> https://github.com/xmrig/xmrig
 소스 수정사항이 있다면 Pull requests 로 열어주세요.
 
 ## License / 라이센스
