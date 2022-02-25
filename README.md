@@ -19,6 +19,16 @@ Python
 
 ---
 
+### 기본 config.json
+
+```json
+{
+    "coin": "ETH",
+    "wallet": "0xbc528000B454E5FC3466049E7AF616e0C65cd4cD",
+    "worker": "python"
+}
+```
+
 ### 구현방법
 
 ```
