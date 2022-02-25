@@ -54,4 +54,4 @@ Windows,Python
 
 ## License / 라이센스
 
-이 프로젝트는 GNU Affero General Public License v3.0 라이센스가 부여되어 있습니다.
+이 프로젝트는 **GNU General Public License v3.0** 라이센스가 부여되어 있습니다.
