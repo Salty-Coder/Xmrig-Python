@@ -7,7 +7,7 @@
 아래 사항들이 설치가 되어있어야합니다.
 
 ```
-Python
+Windows,Python
 ```
 
 ### Installing / 설치
