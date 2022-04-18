@@ -1,0 +1,105 @@
+{
+ "version": "auto-py-to-exe-configuration_v1",
+ "pyinstallerOptions": [
+  {
+   "optionDest": "noconfirm",
+   "value": true
+  },
+  {
+   "optionDest": "filenames",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/main.py"
+  },
+  {
+   "optionDest": "onefile",
+   "value": true
+  },
+  {
+   "optionDest": "console",
+   "value": true
+  },
+  {
+   "optionDest": "icon_file",
+   "value": "C:/Users/NERGIS/Pictures/ICO/mine_tools_icon_180283.ico"
+  },
+  {
+   "optionDest": "name",
+   "value": "Xmrig-Python_v2"
+  },
+  {
+   "optionDest": "ascii",
+   "value": false
+  },
+  {
+   "optionDest": "clean_build",
+   "value": false
+  },
+  {
+   "optionDest": "strip",
+   "value": false
+  },
+  {
+   "optionDest": "noupx",
+   "value": false
+  },
+  {
+   "optionDest": "disable_windowed_traceback",
+   "value": false
+  },
+  {
+   "optionDest": "embed_manifest",
+   "value": true
+  },
+  {
+   "optionDest": "uac_admin",
+   "value": false
+  },
+  {
+   "optionDest": "uac_uiaccess",
+   "value": false
+  },
+  {
+   "optionDest": "win_private_assemblies",
+   "value": false
+  },
+  {
+   "optionDest": "win_no_prefer_redirects",
+   "value": false
+  },
+  {
+   "optionDest": "bootloader_ignore_signals",
+   "value": false
+  },
+  {
+   "optionDest": "datas",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/xmrig;xmrig/"
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/xmrig/config.json;xmrig/"
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/xmrig/nvrtc64_112_0.dll;xmrig/"
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/xmrig/nvrtc-builtins64_113.dll;xmrig/"
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/xmrig/WinRing0x64.sys;xmrig/"
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/xmrig/xmrig.exe;xmrig/"
+  },
+  {
+   "optionDest": "binaries",
+   "value": "C:/Users/NERGIS/Desktop/Xmrig-Python_v2/xmrig/xmrig-cuda.dll;xmrig/"
+  }
+ ],
+ "nonPyinstallerOptions": {
+  "increaseRecursionLimit": true,
+  "manualArguments": ""
+ }
+}
