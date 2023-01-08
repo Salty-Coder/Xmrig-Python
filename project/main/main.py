@@ -3,12 +3,6 @@
 import json
 import os
 import sys
-try:
- from admcheck.main import *
-except:
- input("missing modules would you like to install? ")
- os.system("pip install admcheck && pip install requests && pip install os-sys")
- print("installed modules please restart")
 
 close()
 def resource_path(relative_path):
